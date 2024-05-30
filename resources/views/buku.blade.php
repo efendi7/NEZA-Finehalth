@@ -6,7 +6,7 @@
   <title>Buku</title>
 </head>
 <body>
-  <h1>Halaman Dompet</h1>
+  <h1>Halaman Buku</h1>
   
 </body>
 </html>
