@@ -7,6 +7,8 @@
 </head>
 <body>
   <h1>Halaman Buku</h1>
+  <h2>panduan</h2>
   
 </body>
 </html>
+
