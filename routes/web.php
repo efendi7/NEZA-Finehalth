@@ -25,3 +25,7 @@ Route::get('/analisis', function () {
 Route::get('/more', function () {
     return view('More');
 });
+
+Route::get('/login', function () {
+    return view('login_page');
+});
