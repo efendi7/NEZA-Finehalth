@@ -114,3 +114,51 @@ body {
 .forgot-password a:hover {
     text-decoration: underline;
 }
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 2rem;
+}
+
+.image-placeholder {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.image-placeholder img {
+    max-width: 100%;
+    height: auto;
+}
+
+.welcome-text {
+    flex: 1;
+    text-align: left;
+}
+
+.welcome-text h1 {
+    font-size: 3rem;
+    color: #00CFFF;
+    margin: 0;
+}
+
+.welcome-text h2 {
+    font-size: 2rem;
+    color: #007BFF;
+    margin: 0.5rem 0;
+}
+
+.welcome-text p {
+    font-size: 1rem;
+    margin: 1rem 0;
+}
+
+.or-text {
+    text-align: center;
+    font-size: 1rem;
+    margin: 0.5rem 0;
+}
+
