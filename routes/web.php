@@ -33,3 +33,10 @@ Route::get('/login', function () {
 
 Route::get('/signup', [RegisterController::class, 'index']);
 Route::post('/signup', [RegisterController::class, 'store']);
+
+use App\Http\Controllers\AnalisisController;
+
+Route::get('/analisis', [AnalisisController::class, 'index']);
+
+
+
