@@ -7,6 +7,18 @@ Route::get('/', function () {
     return view('Welcome');
 });
 
+Route::get('/welcome', function () {
+    return view('Welcome page');
+});
+
+Route::get('/login', function () {
+    return view('login page');
+});
+
+Route::get('/signup', function () {
+    return view('signup page');
+});
+
 Route::get('/home', function () {
     return view('Home');
 });
