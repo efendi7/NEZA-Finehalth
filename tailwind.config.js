@@ -1,12 +1,18 @@
-/** @type {import('tailwindcss').Config} */
-export default {
+// tailwind.config.js
+
+module.exports = {
     content: [
         "./resources/**/*.blade.php",
         "./resources/**/*.js",
         "./resources/**/*.vue",
+        "./public/**/*.{html,js}",
     ],
     theme: {
-        extend: {},
+        extend: {
+            colors: {
+                customTurquoise: "#13DEDE",
+            },
+        },
     },
     plugins: [],
 };

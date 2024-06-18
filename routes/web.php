@@ -32,16 +32,17 @@ Route::get('/dompet', function () {
 });
 
 Route::get('/analisis', function () {
-    return view('Analisis');
+    return view('Analisis', [ 
+        "pengeluaran" => "Makanan",
+        "presentase" => "100%",
+        "harga" => "5000"
+    ]);
 });
 
 Route::get('/more', function () {
     return view('More');
 });
 
-Route::get('/login', function () {
-    return view('login_page');
-});
 
 Route::get('/signup', [RegisterController::class, 'index']);
 Route::post('/signup', [RegisterController::class, 'store']);
