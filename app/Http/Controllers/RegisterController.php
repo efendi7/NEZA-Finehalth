@@ -20,6 +20,6 @@ class RegisterController extends Controller
         
         User::create($validatedData);
 
-        return redirect('/buku');
+        return redirect('/login');
     }
 }
