@@ -91,7 +91,6 @@
       <canvas id="myChart"></canvas>
     </div>
   </div>
-</div>
-
+</div> 
 </body>
 </html>

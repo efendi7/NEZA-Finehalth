@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\RegisterController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -41,4 +42,14 @@ Route::get('/analisis', function () {
 Route::get('/more', function () {
     return view('More');
 });
+
+
+Route::get('/signup', [RegisterController::class, 'index']);
+Route::post('/signup', [RegisterController::class, 'store']);
+
+use App\Http\Controllers\AnalisisController;
+
+Route::get('/analisis', [AnalisisController::class, 'index']);
+
+
 
