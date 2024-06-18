@@ -1,0 +1,574 @@
+.buku-utama .icons-funcational-common-calendar {
+    bg-[#13DEDE]
+    m-[0_0_1px_0]
+    flex
+    p-[8.1px_7.5px_13.7px_7.5px]
+    w-[60px]
+    h-[60px]
+    box-sizing-border
+   }
+   .buku-utama .icons-funcational-common-calendar-1 {
+    bg-[#13DEDE]
+    m-[0_40px_0_40px]
+    flex
+    p-[16px_8px_15px_8px]
+    w-[60px]
+    h-[60px]
+    box-sizing-border
+   }
+   .buku-utama .vector-6 {
+    w-[44px]
+    h-[29px]
+   }
+   .buku-utama .group-12 {
+    rounded-[60px]
+    bg-[#FFFFFF]
+    relative
+    flex
+    flex-col
+    p-[51px_53px_45px_53px]
+    w-[1056px]
+    box-sizing-border
+   }
+   .buku-utama {
+    bg-[#FFFFFF]
+    flex
+    w-[1440px]
+    box-sizing-border
+   }
+   .buku-utama .container {
+    m-[2px_0_2px_0]
+    flex
+    flex-row
+    box-sizing-border
+   }
+   .buku-utama .icons-funcational-common-calendar-2 {
+    rounded-[30px]
+    bg-[#A5EBEB]
+    absolute
+    left-[50%]
+    top-[32px]
+    translate-x-[-50%]
+    flex
+    p-[22px_37px_21px_24px]
+    w-[1381px]
+    box-sizing-border
+   }
+   .buku-utama .container-1 {
+    flex
+    flex-row
+    self-start
+    w-[fit-content]
+    box-sizing-border
+   }
+   .buku-utama .container-2 {
+    relative
+    flex
+    flex-col
+    items-end
+    w-[1382px]
+    h-[fit-content]
+    box-sizing-border
+   }
+   .buku-utama .container-3 {
+    flex
+    flex-row
+    box-sizing-border
+   }
+   .buku-utama .vector-7 {
+    w-[100px]
+    h-[101px]
+   }
+   .buku-utama .vector-8 {
+    m-[0_81px_0_0]
+    w-[81px]
+    h-[97px]
+   }
+   .buku-utama .vector-9 {
+    m-[14px_0_0_0]
+    w-[86px]
+    h-[83px]
+   }
+   .buku-utama .rp-100000 {
+    m-[0_6px_52px_6px]
+    inline-block
+    self-start
+    break-words
+    font-['Roboto']
+    font-bold
+    text-[35px]
+    leading-[1.5]
+    text-[#FF0000]
+   }
+   .buku-utama .frame {
+    m-[0_20px_0_0]
+    w-[150px]
+    h-[158px]
+   }
+   .buku-utama .tanggal-2952024065604 {
+    self-start
+    break-words
+    font-['Roboto']
+    font-normal
+    text-[35px]
+    leading-[1.5]
+    text-[#423C3C]
+   }
+   .tanggal-2952024065604 {
+    font-['Roboto']
+    font-normal
+    text-[35px]
+    leading-[1.333]
+    text-[#000000]
+   }
+   .buku-utama .makan {
+    m-[66px_0_39px_0]
+    inline-block
+    break-words
+    font-['Roboto']
+    font-normal
+    text-[35px]
+    leading-[1.5]
+    text-[#423C3C]
+   }
+   .buku-utama .column {
+    m-[14.5px_0_14.1px_0]
+    flex
+    flex-row
+    w-[375.3px]
+    h-[fit-content]
+    box-sizing-border
+   }
+   .buku-utama .logo {
+    m-[0_24.3px_0_0]
+    flex
+    flex-row
+    w-[62.1px]
+    box-sizing-border
+   }
+   .buku-utama .vector-25 {
+    m-[0_0.6px_5.4px_0]
+    w-[12.7px]
+    h-[20px]
+   }
+   .buku-utama .vector-26 {
+    m-[5px_1px_5.1px_0]
+    w-[15.4px]
+    h-[15.3px]
+   }
+   .buku-utama .vector-27 {
+    m-[5px_1.8px_0_0]
+    w-[15.1px]
+    h-[20.4px]
+   }
+   .buku-utama .vector-28 {
+    m-[5px_0_5.1px_0]
+    w-[15.4px]
+    h-[15.3px]
+   }
+   .buku-utama .column-1 {
+    m-[0.5px_0_0.9px_0]
+    flex
+    flex-row
+    justify-between
+    w-[288.9px]
+    h-[fit-content]
+    box-sizing-border
+   }
+   .buku-utama .link {
+    m-[0_12px_0_0]
+    w-[65px]
+    break-words
+    font-['Roboto']
+    font-[var(--text-regular-normal-font-weight,400)]
+    text-[16px]
+    leading-[var(--text-regular-normal-line-height,1.5)]
+    text-[#FFFFFF]
+   }
+   .buku-utama .link-1 {
+    break-words
+    font-['Roboto']
+    font-[var(--text-regular-normal-font-weight,400)]
+    text-[16px]
+    leading-[var(--text-regular-normal-line-height,1.5)]
+    text-[#FFFFFF]
+   }
+   .buku-utama .link-2 {
+    break-words
+    font-['Roboto']
+    font-[var(--text-regular-normal-font-weight,400)]
+    text-[16px]
+    leading-[var(--text-regular-normal-line-height,1.5)]
+    text-[#FFFFFF]
+   }
+   .buku-utama .nav-link-dropdown {
+    flex
+    box-sizing-border
+   }
+   .buku-utama .link-3 {
+    break-words
+    font-['Roboto']
+    font-[var(--text-regular-normal-font-weight,400)]
+    text-[16px]
+    leading-[var(--text-regular-normal-line-height,1.5)]
+    text-[#FFFFFF]
+   }
+   .buku-utama .ellipse-3 {
+    w-[55px]
+    h-[54px]
+   }
+   .buku-utama .books {
+    break-words
+    font-['Roboto']
+    font-bold
+    text-[32px]
+    text-[#000000]
+   }
+   .buku-utama .rp-1000001 {
+    m-[0_11.5px_0_0]
+    w-[633.5px]
+    break-words
+    font-['Roboto']
+    font-black
+    text-[20px]
+    text-[#FF0000]
+   }
+   .buku-utama .rp-1000002 {
+    break-words
+    font-['Roboto']
+    font-black
+    text-[20px]
+    text-[#FF0000]
+   }
+   .buku-utama .vector-29 {
+    m-[8px_26px_4px_0]
+    w-[41px]
+    h-[26px]
+   }
+   .buku-utama .vector-30 {
+    m-[0_19px_0_0]
+    w-[15px]
+    h-[20px]
+   }
+   .buku-utama .vector-31 {
+    w-[15px]
+    h-[20px]
+   }
+   .buku-utama .container {
+    m-[0_14.3px_1px_0]
+    inline-block
+    break-words
+    font-['Roboto']
+    font-medium
+    text-[16px]
+    text-[#000000]
+   }
+   .buku-utama .vector-32 {
+    absolute
+    left-[444px]
+    top-[86.4px]
+    w-[16.7px]
+    h-[3.3px]
+   }
+   .buku-utama .vector-33 {
+    m-[5px_0_7px_0]
+    w-[16.7px]
+    h-[8px]
+   }
+   .buku-utama .rp-0 {
+    break-words
+    font-['Roboto']
+    font-black
+    text-[20px]
+    text-[#397F20]
+   }
+   .buku-utama .total {
+    m-[0_11.5px_0_0]
+    w-[559.9px]
+    break-words
+    font-['Roboto']
+    font-normal
+    text-[20px]
+    text-[#828282]
+   }
+   .buku-utama .pengeluaran {
+    break-words
+    font-['Roboto']
+    font-normal
+    text-[20px]
+    text-[#828282]
+   }
+   .buku-utama .penghasilan {
+    break-words
+    font-['Roboto']
+    font-normal
+    text-[20px]
+    text-[#828282]
+   }
+   .buku-utama .bulanan {
+    m-[0_10px_0_0]
+    break-words
+    font-['Roboto']
+    font-extrabold
+    text-[20px]
+    text-[#828282]
+   }
+   .buku-utama .vector-34 {
+    m-[6px_0_7px_0]
+    w-[16px]
+    h-[10px]
+   }
+   .buku-utama .openmojihamburger {
+    m-[0_1px_0_0]
+    w-[89px]
+    h-[91px]
+   }
+   .buku-utama .rab-195 {
+    break-words
+    font-['Roboto']
+    font-medium
+    text-[16px]
+    text-[#828282]
+   }
+   .buku-utama .rab-1951 {
+    absolute
+    left-[57px]
+    top-[50%]
+    translate-y-[-50%]
+    break-words
+    font-['Roboto']
+    font-medium
+    text-[16px]
+    text-[#828282]
+   }
+   .buku-utama .vector-50 {
+    m-[5px_16.3px_6px_0]
+    w-[16.7px]
+    h-[8px]
+   }
+   .buku-utama .pengeluaran-rp-100000 {
+    break-words
+    font-['Roboto']
+    font-normal
+    text-[20px]
+    text-[#828282]
+   }
+   .buku-utama .makan-1 {
+    m-[0_3px_0_3px]
+    self-start
+    break-words
+    font-['Roboto']
+    font-medium
+    text-[16px]
+    text-[#000000]
+   }
+   .buku-utama .diri-sendiri {
+    break-words
+    font-['Roboto']
+    font-medium
+    text-[16px]
+    text-[#828282]
+   }
+   .buku-utama .rp-1000003 {
+    m-[0_5.8px_0_4px]
+    break-words
+    font-['Roboto']
+    font-black
+    text-[20px]
+    text-[#FF0000]
+   }
+   .buku-utama .akun-bawaan {
+    break-words
+    font-['Roboto']
+    font-normal
+    text-[20px]
+    text-[#828282]
+   }
+   .buku-utama .streamlinehand-held-tablet-writing-solid {
+    absolute
+    left-[0px]
+    top-[0.1px]
+    flex
+    w-[14px]
+    h-[13.8px]
+    box-sizing-border
+   }
+   .buku-utama .vector-51 {
+    w-[14px]
+    h-[13.8px]
+   }
+   .buku-utama .container-4 {
+    relative
+    flex
+    flex-row
+    justify-between
+    w-[6282px]
+    h-[fit-content]
+    box-sizing-border
+   }
+   .buku-utama .container-5 {
+    m-[0_0_76px_31.7px]
+    flex
+    flex-row
+    justify-between
+    w-[1267.7px]
+    box-sizing-border
+   }
+   .buku-utama .container-6 {
+    bg-[#13DEDE]
+    relative
+    m-[0_0_24px_0]
+    flex
+    flex-row
+    justify-between
+    p-[12.5px_10px_12.5px_64.6px]
+    w-[1449px]
+    box-sizing-border
+   }
+   .buku-utama .container-7 {
+    rounded-[30px]
+    bg-[#6EE8E8]
+    relative
+    flex
+    flex-col
+    p-[18px_49px_4px_33.7px]
+    w-[fit-content]
+    box-sizing-border
+   }
+   .buku-utama .container-8 {
+    m-[23px_0_0_0]
+    flex
+    flex-row
+    box-sizing-border
+   }
+   .buku-utama .container-9 {
+    rounded-[30px]
+    bg-[#6EE8E8]
+    relative
+    m-[0_0_228px_0]
+    flex
+    flex-row
+    justify-between
+    p-[71px_103px_15px_16px]
+    w-[1382px]
+    box-sizing-border
+   }
+   .buku-utama .container-10 {
+    flex
+    flex-row
+    box-sizing-border
+   }
+   .buku-utama .container-11 {
+    m-[0_0_16px_0]
+    flex
+    flex-row
+    self-start
+    w-[fit-content]
+    box-sizing-border
+   }
+   .buku-utama .container-12 {
+    rounded-[60px]
+    bg-[#6EE8E8]
+    relative
+    flex
+    flex-col
+    p-[71px_0_507px_62px]
+    w-[fit-content]
+    box-sizing-border
+   }
+   .buku-utama .container-13 {
+    m-[0_19px_49px_40px]
+    flex
+    flex-row
+    justify-between
+    w-[891px]
+    box-sizing-border
+   }
+   .buku-utama .container-14 {
+    relative
+    m-[0_27px_14px_27px]
+    flex
+    flex-row
+    justify-between
+    self-start
+    w-[158px]
+    box-sizing-border
+   }
+   .buku-utama .container-15 {
+    m-[0_0_99px_0]
+    flex
+    flex-col
+    items-center
+    box-sizing-border
+   }
+   .buku-utama .container-16 {
+    rounded-[55px]
+    bg-[#CDFCFC]
+    relative
+    m-[0_9px_28px_1px]
+    flex
+    flex-col
+    p-[15px_29px_26px_28px]
+    w-[fit-content]
+    box-sizing-border
+   }
+   .buku-utama .container-17 {
+    rounded-t-[100px]
+    bg-[#CDFCFC]
+    relative
+    m-[0_9px_0_0]
+    flex
+    p-[37px_28px_97px_30px]
+    w-[1440px]
+    box-sizing-border
+   }
+   .buku-utama .container-18 {
+    m-[18px_0_27px_0]
+    flex
+    flex-col
+    items-center
+    box-sizing-border
+   }
+   .buku-utama .container-19 {
+    relative
+    flex
+    flex-row
+    justify-between
+    w-[1320px]
+    h-[fit-content]
+    box-sizing-border
+   }
+   .buku-utama .container-20 {
+    m-[0_0_4px_0]
+    flex
+    flex-row
+    w-[248px]
+    h-[fit-content]
+    box-sizing-border
+   }
+   .buku-utama .container-21 {
+    m-[0_6.8px_10px_0.3px]
+    flex
+    flex-row
+    justify-between
+    w-[1292.2px]
+    box-sizing-border
+   }
+   .buku-utama .container-22 {
+    m-[26px_0_27px_0]
+    flex
+    flex-col
+    box-sizing-border
+   }
+   .buku-utama .vector-52 {
+    w-[45px]
+    h-[38.2px]
+   }
+   .buku-utama .container-23 {
+    m-[0_47px_14px_23px]
+    flex
+    flex-row
+    justify-between
+    w-[1379px]
+    box-sizing-border
+   }
