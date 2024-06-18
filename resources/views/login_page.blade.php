@@ -17,15 +17,26 @@
     </div>
     <div class="login-form">
         <h2>Log In</h2>
-        <form>
+        <form action="/login" method="post">
+            @csrf
             <div class="input-group">
-                <label for="name">Username*</label>
-                <input type="text" id="name" name="name" required>
+                <label for="email">Email*</label>
+                <input type="email" id="email" name="email" class="@error('email') is-invalid @enderror" required>
             </div>
+            @error('email')
+            <div class="error-message">
+                {{ $message }}
+            </div>
+            @enderror
             <div class="input-group">
                 <label for="password">Password*</label>
-                <input type="password" id="password" name="password" required>
+                <input type="password" id="password" name="password" class="@error('password') is-invalid @enderror" required>
             </div>
+            @error('password')
+            <div class="error-message">
+                {{ $message }}
+            </div>
+            @enderror
             <button type="submit" class="login-button">Log In</button>
             <button type="button" class="google-login-button"> 
                 <img src="/images/google.png" alt="Google logo"> Log In with Google
