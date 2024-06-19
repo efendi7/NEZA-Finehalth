@@ -20,7 +20,6 @@
             <h2>FinHealth</h2>
             <p>Kelola sistem keuanganmu dengan tenang bersama kami.<br>Pilihan hidup sehat ada di tanganmu.</p>
             <a href="/login">
-                <button class="login-button">Log In</button>
             </a>
             <p class="or-text">OR</p>
             <a href="/signup">
@@ -29,4 +28,5 @@
         </div>
     </div>
 </body>
+
 </html>

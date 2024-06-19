@@ -17,7 +17,7 @@ Route::get('/dompet', function () {
 });
 
 Route::get('/analisis', function () {
-    return view('Analisis', [
+    return view('Analisis', [ 
         "pengeluaran" => "Makanan",
         "presentase" => "100%",
         "harga" => "5000"
@@ -39,3 +39,4 @@ Route::post('/logout', [LoginController::class, 'logout']);
 use App\Http\Controllers\AnalisisController;
 
 Route::get('/analisis', [AnalisisController::class, 'index'])->middleware('auth');
+
