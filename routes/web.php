@@ -8,10 +8,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/home', function () {
-    return view('home');
-});
-
 Route::get('/buku', function () {
     return view('buku');
 });
@@ -21,7 +17,6 @@ Route::get('/dompet', function () {
 });
 
 Route::get('/analisis', function () {
-    return view('analisis');
     return view('Analisis', [
         "pengeluaran" => "Makanan",
         "presentase" => "100%",
