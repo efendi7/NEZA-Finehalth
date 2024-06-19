@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\RegisterController;
 use App\Http\Controllers\LoginController;
+use App\Http\Controllers\PrimeController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -39,6 +40,13 @@ Route::post('/logout', [LoginController::class, 'logout']);
 use App\Http\Controllers\AnalisisController;
 
 Route::get('/analisis', [AnalisisController::class, 'index'])->middleware('auth');
+
+Route::post('/find-primes', [PrimeController::class, 'findPrimes']);
+
+Route::post('/prima', [PrimeController::class, 'index']);
+Route::get('/prima', function () {
+    return view('prima');
+});
 
 
 
