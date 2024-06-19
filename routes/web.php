@@ -40,5 +40,3 @@ use App\Http\Controllers\AnalisisController;
 
 Route::get('/analisis', [AnalisisController::class, 'index'])->middleware('auth');
 
-
-
