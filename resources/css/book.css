@@ -1,0 +1,575 @@
+.buku-utama .vector-51 {
+    width: 14px;
+    height: 13.8px;
+  }
+  .buku-utama .streamlinehand-held-tablet-writing-solid {
+    position: absolute;
+    left: 0px;
+    top: 0.1px;
+    display: flex;
+    width: 14px;
+    height: 13.8px;
+    box-sizing: border-box;
+  }
+  .buku-utama .vector-25 {
+    margin: 0 0.6px 5.4px 0;
+    width: 12.7px;
+    height: 20px;
+  }
+  .buku-utama .vector-26 {
+    margin: 5px 1px 5.1px 0;
+    width: 15.4px;
+    height: 15.3px;
+  }
+  .buku-utama .vector-27 {
+    margin: 5px 1.8px 0 0;
+    width: 15.1px;
+    height: 20.4px;
+  }
+  .buku-utama .vector-28 {
+    margin: 5px 0 5.1px 0;
+    width: 15.4px;
+    height: 15.3px;
+  }
+  .buku-utama .logo {
+    margin-right: 24.3px;
+    display: flex;
+    flex-direction: row;
+    width: 62.1px;
+    box-sizing: border-box;
+  }
+  .buku-utama .link {
+    margin-right: 12px;
+    width: 65px;
+    overflow-wrap: break-word;
+    font-family: var(--text-regular-normal-font-family, 'Roboto');
+    font-weight: var(--text-regular-normal-font-weight, 400);
+    font-size: var(--text-regular-normal-font-size, 16px);
+    line-height: var(--text-regular-normal-line-height, 1.5);
+    color: #FFFFFF;
+  }
+  .buku-utama .link-1 {
+    overflow-wrap: break-word;
+    font-family: var(--text-regular-normal-font-family, 'Roboto');
+    font-weight: var(--text-regular-normal-font-weight, 400);
+    font-size: var(--text-regular-normal-font-size, 16px);
+    line-height: var(--text-regular-normal-line-height, 1.5);
+    color: #FFFFFF;
+  }
+  .buku-utama .link-2 {
+    overflow-wrap: break-word;
+    font-family: var(--text-regular-normal-font-family, 'Roboto');
+    font-weight: var(--text-regular-normal-font-weight, 400);
+    font-size: var(--text-regular-normal-font-size, 16px);
+    line-height: var(--text-regular-normal-line-height, 1.5);
+    color: #FFFFFF;
+  }
+  .buku-utama .link-3 {
+    overflow-wrap: break-word;
+    font-family: var(--text-regular-normal-font-family, 'Roboto');
+    font-weight: var(--text-regular-normal-font-weight, 400);
+    font-size: var(--text-regular-normal-font-size, 16px);
+    line-height: var(--text-regular-normal-line-height, 1.5);
+    color: #FFFFFF;
+  }
+  .buku-utama .nav-link-dropdown {
+    display: flex;
+    box-sizing: border-box;
+  }
+  .buku-utama .column-1 {
+    margin: 0.5px 0 0.9px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 288.9px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .buku-utama .column {
+    margin: 14.5px 0 14.1px 0;
+    display: flex;
+    flex-direction: row;
+    width: 375.3px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .buku-utama .ellipse-3 {
+    width: 55px;
+    height: 54px;
+  }
+  .buku-utama .container-6 {
+    background: #13DEDE;
+    position: relative;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 12.5px 10px 12.5px 64.6px;
+    width: 1449px;
+    box-sizing: border-box;
+  }
+  .buku-utama .vector-29 {
+    margin: 8px 26px 4px 0;
+    width: 41px;
+    height: 26px;
+  }
+  .buku-utama .books {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 32px;
+    color: #000000;
+  }
+  .buku-utama .container-8 {
+    margin-top: 23px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .buku-utama .vector-52 {
+    width: 45px;
+    height: 38.2px;
+  }
+  .buku-utama .icons-funcational-common-calendar {
+    background: #13DEDE;
+    margin-bottom: 1px;
+    display: flex;
+    padding: 8.1px 7.5px 13.7px 7.5px;
+    width: 60px;
+    height: 60px;
+    box-sizing: border-box;
+  }
+  .buku-utama .container-23 {
+    margin: 0 47px 14px 23px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1379px;
+    box-sizing: border-box;
+  }
+  .buku-utama .vector-32 {
+    position: absolute;
+    left: 444px;
+    top: 86.4px;
+    width: 16.7px;
+    height: 3.3px;
+  }
+  .buku-utama .vector-30 {
+    margin-right: 19px;
+    width: 15px;
+    height: 20px;
+  }
+  .buku-utama .container {
+    margin: 0 14.3px 1px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    color: #000000;
+  }
+  .buku-utama .vector-33 {
+    margin: 5px 0 7px 0;
+    width: 16.7px;
+    height: 8px;
+  }
+  .buku-utama .container-3 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .buku-utama .vector-31 {
+    width: 15px;
+    height: 20px;
+  }
+  .buku-utama .container-14 {
+    position: relative;
+    margin: 0 27px 14px 27px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 158px;
+    box-sizing: border-box;
+  }
+  .buku-utama .rp-1000001 {
+    margin-right: 11.5px;
+    width: 633.5px;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 20px;
+    color: #FF0000;
+  }
+  .buku-utama .rp-0 {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 20px;
+    color: #397F20;
+  }
+  .buku-utama .rp-1000002 {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 20px;
+    color: #FF0000;
+  }
+  .buku-utama .container-21 {
+    margin: 0 6.8px 10px 0.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1292.2px;
+    box-sizing: border-box;
+  }
+  .buku-utama .total {
+    margin-right: 11.5px;
+    width: 559.9px;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+    color: #828282;
+  }
+  .buku-utama .penghasilan {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+    color: #828282;
+  }
+  .buku-utama .pengeluaran {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+    color: #828282;
+  }
+  .buku-utama .container-5 {
+    margin: 0 0 76px 31.7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1267.7px;
+    box-sizing: border-box;
+  }
+  .buku-utama .bulanan {
+    margin-right: 10px;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 800;
+    font-size: 20px;
+    color: #828282;
+  }
+  .buku-utama .vector-34 {
+    margin: 6px 0 7px 0;
+    width: 16px;
+    height: 10px;
+  }
+  .buku-utama .container-1 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .buku-utama .container-7 {
+    border-radius: 30px;
+    background: #6EE8E8;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 18px 49px 4px 33.7px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .buku-utama .container-16 {
+    border-radius: 55px;
+    background: #CDFCFC;
+    position: relative;
+    margin: 0 9px 28px 1px;
+    display: flex;
+    flex-direction: column;
+    padding: 15px 29px 26px 28px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .buku-utama .openmojihamburger {
+    margin-right: 1px;
+    width: 89px;
+    height: 91px;
+  }
+  .buku-utama .makan-1 {
+    margin: 0 3px;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    color: #000000;
+  }
+  .buku-utama .diri-sendiri {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    color: #828282;
+  }
+  .buku-utama .container-22 {
+    margin: 26px 0 27px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .buku-utama .container-10 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .buku-utama .rp-1000003 {
+    margin: 0 5.8px 0 4px;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 20px;
+    color: #FF0000;
+  }
+  .buku-utama .akun-bawaan {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+    color: #828282;
+  }
+  .buku-utama .container-18 {
+    margin: 18px 0 27px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .buku-utama .container-9 {
+    border-radius: 30px;
+    background: #6EE8E8;
+    position: relative;
+    margin-bottom: 228px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 71px 103px 15px 16px;
+    width: 1382px;
+    box-sizing: border-box;
+  }
+  .buku-utama .vector-6 {
+    width: 44px;
+    height: 29px;
+  }
+  .buku-utama .icons-funcational-common-calendar-1 {
+    background: #13DEDE;
+    margin: 0 40px;
+    display: flex;
+    padding: 16px 8px 15px 8px;
+    width: 60px;
+    height: 60px;
+    box-sizing: border-box;
+  }
+  .buku-utama .container-2 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 1382px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .buku-utama .vector-50 {
+    margin: 5px 16.3px 6px 0;
+    width: 16.7px;
+    height: 8px;
+  }
+  .buku-utama .rab-195 {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    color: #828282;
+  }
+  .buku-utama .container {
+    margin: 2px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .buku-utama .pengeluaran-rp-100000 {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+    color: #828282;
+  }
+  .buku-utama .container-19 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1320px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .buku-utama .rab-1951 {
+    position: absolute;
+    left: 57px;
+    top: 50%;
+    translate: 0 -50%;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    color: #828282;
+  }
+  .buku-utama .icons-funcational-common-calendar-2 {
+    border-radius: 30px;
+    background: #A5EBEB;
+    position: absolute;
+    left: 50%;
+    top: 32px;
+    translate: -50% 0;
+    display: flex;
+    padding: 22px 37px 21px 24px;
+    width: 1381px;
+    box-sizing: border-box;
+  }
+  .buku-utama .container-17 {
+    border-radius: 100px 100px 0 0;
+    background: #CDFCFC;
+    position: relative;
+    margin-right: 9px;
+    display: flex;
+    padding: 37px 28px 97px 30px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .buku-utama .container-15 {
+    margin-bottom: 99px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .buku-utama .vector-7 {
+    width: 100px;
+    height: 101px;
+  }
+  .buku-utama .vector-8 {
+    margin-right: 81px;
+    width: 81px;
+    height: 97px;
+  }
+  .buku-utama .vector-9 {
+    margin-top: 14px;
+    width: 86px;
+    height: 83px;
+  }
+  .buku-utama .container-20 {
+    margin-bottom: 4px;
+    display: flex;
+    flex-direction: row;
+    width: 248px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .buku-utama .container-13 {
+    margin: 0 19px 49px 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 891px;
+    box-sizing: border-box;
+  }
+  .buku-utama .frame {
+    margin-right: 20px;
+    width: 150px;
+    height: 158px;
+  }
+  .buku-utama .makan {
+    margin: 66px 0 39px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 1.5;
+    color: #423C3C;
+  }
+  .buku-utama .container-11 {
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .buku-utama .rp-100000 {
+    margin: 0 6px 52px 6px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 1.5;
+    color: #FF0000;
+  }
+  .buku-utama .tanggal-2952024065604 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 1.5;
+    color: #423C3C;
+  }
+  .tanggal-2952024065604 {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 1.333;
+    color: #000000;
+  }
+  .buku-utama .container-12 {
+    border-radius: 60px;
+    background: #6EE8E8;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 71px 0 507px 62px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .buku-utama .group-12 {
+    border-radius: 60px;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 51px 53px 45px 53px;
+    width: 1056px;
+    box-sizing: border-box;
+  }
+  .buku-utama .container-4 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 6282px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .buku-utama {
+    background: #FFFFFF;
+    display: flex;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  

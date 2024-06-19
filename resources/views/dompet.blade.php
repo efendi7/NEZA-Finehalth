@@ -12,6 +12,10 @@
 
     <div class="container">
         <h1>Dompet</h1>
+<<<<<<< HEAD
+=======
+
+>>>>>>> badfd35ff70d5ccc0bf510049ec8a1b69d7ca8be
         <div class="row">
             <div class="col-md-6">
                 <h2>Aset Bersih</h2>
