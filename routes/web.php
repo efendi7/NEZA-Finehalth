@@ -5,27 +5,38 @@ use App\Http\Controllers\LoginController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('Welcome');
+    return view('welcome');
 });
 
+<<<<<<< HEAD
+Route::get('/home', function () {
+    return view('home');
+});
+
+=======
+>>>>>>> badfd35ff70d5ccc0bf510049ec8a1b69d7ca8be
 Route::get('/buku', function () {
-    return view('Buku');
+    return view('buku');
 });
 
 Route::get('/dompet', function () {
-    return view('Dompet');
+    return view('dompet');
 });
 
 Route::get('/analisis', function () {
+<<<<<<< HEAD
+    return view('analisis');
+=======
     return view('Analisis', [ 
         "pengeluaran" => "Makanan",
         "presentase" => "100%",
         "harga" => "5000"
     ]);
+>>>>>>> badfd35ff70d5ccc0bf510049ec8a1b69d7ca8be
 });
 
 Route::get('/more', function () {
-    return view('More');
+    return view('more');
 });
 
 
