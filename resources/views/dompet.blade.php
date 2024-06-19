@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 </head>
 <body>
+    <h1>Halaman Dompet</h1>
+
     <div class="container">
         <h1>Dompet</h1>
 
@@ -29,7 +31,6 @@
                 </div>
             </div>
         </div>
-
         <div class="row mt-4">
             <div class="col-md-6">
                 <h2>Tambah Akun</h2>
@@ -56,38 +57,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="card mt-2">
-                    <div class="card-body">
-                        <div class="row">
-                            <div class="col-6">
-                                <p class="h4">Akun Bawaan</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="h5">Saldo</p>
-                                <p class="h4">Rp 0</p>
-                            </div>
-                        </div>
-                        <div class="mt-2">
-                            <p class="text-muted">IDR(16.000)</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="card mt-2">
-                    <div class="card-body">
-                        <div class="row">
-                            <div class="col-6">
-                                <p class="h4">Akun Bawaan</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="h5">Saldo</p>
-                                <p class="h4">Rp 0</p>
-                            </div>
-                        </div>
-                        <div class="mt-2">
-                            <p class="text-muted">IDR(16.000)</p>
-                        </div>
-                    </div>
-                </div>
+                <!-- Repeat for other accounts as needed -->
             </div>
         </div>
     </div>
