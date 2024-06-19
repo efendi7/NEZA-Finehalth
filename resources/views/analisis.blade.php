@@ -91,6 +91,74 @@
       <canvas id="myChart"></canvas>
     </div>
   </div>
+ 
+
+<!-- Footer -->
+<footer class="bg-gray-800 text-white py-8">
+  <div class="container mx-auto px-4">
+    <div class="flex justify-between items-center mb-8">
+      <!-- Social Media Icons -->
+      <div class="flex space-x-4">
+        <a href="https://facebook.com" class="text-gray-400 hover:text-white">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.04c-5.51 0-9.96 4.45-9.96 9.96 0 4.97 3.67 9.08 8.44 9.92v-7.02h-2.54v-2.9h2.54v-2.22c0-2.5 1.49-3.89 3.77-3.89 1.09 0 2.23.19 2.23.19v2.46h-1.26c-1.24 0-1.63.77-1.63 1.56v1.9h2.78l-.44 2.9h-2.34v7.02c4.77-.84 8.44-4.95 8.44-9.92 0-5.51-4.45-9.96-9.96-9.96z"/></svg>
+        </a>
+        <a href="https://instagram.com" class="text-gray-400 hover:text-white">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 1.259.058 2.12.288 2.615.61.562.36 1.019.844 1.378 1.378.322.494.552 1.356.61 2.615.058 1.266.07 1.646.07 4.85s-.012 3.584-.07 4.85c-.058 1.259-.288 2.12-.61 2.615-.36.562-.844 1.019-1.378 1.378-.494.322-1.356.552-2.615.61-1.266.058-1.646.07-4.85.07s-3.584-.012-4.85-.07c-1.259-.058-2.12-.288-2.615-.61-.562-.36-1.019-.844-1.378-1.378-.322-.494-.552-1.356-.61-2.615-.058-1.266-.07-1.646-.07-4.85s.012-3.584.07-4.85c.058-1.259.288-2.12.61-2.615.36-.562.844-1.019 1.378-1.378.494-.322 1.356-.552 2.615-.61 1.266-.058 1.646-.07 4.85-.07zm0-2.163c-3.259 0-3.667.014-4.947.072-1.281.058-2.163.286-2.905.616-.785.349-1.437.802-2.086 1.451-.649.649-1.102 1.301-1.451 2.086-.33.742-.558 1.624-.616 2.905-.058 1.28-.072 1.688-.072 4.947s.014 3.667.072 4.947c.058 1.281.286 2.163.616 2.905.349.785.802 1.437 1.451 2.086.649.649 1.301 1.102 2.086 1.451.742.33 1.624.558 2.905.616 1.28.058 1.688.072 4.947.072s3.667-.014 4.947-.072c1.281-.058 2.163-.286 2.905-.616.785-.349 1.437-.802 2.086-1.451.649-.649 1.102-1.301 1.451-2.086.33-.742.558-1.624.616-2.905.058-1.28.072-1.688.072-4.947s-.014-3.667-.072-4.947c-.058-1.281-.286-2.163-.616-2.905-.349-.785-.802-1.437-1.451-2.086-.649-.649-1.301-1.102-2.086-1.451-.742-.33-1.624-.558-2.905-.616-1.28-.058-1.688-.072-4.947-.072zM12 5.838c-3.396 0-6.162 2.766-6.162 6.162s2.766 6.162 6.162 6.162 6.162-2.766 6.162-6.162-2.766-6.162-6.162-6.162zm0 10.162c-2.205 0-4-1.795-4-4s1.795-4 4-4 4 1.795 4 4-1.795 4-4 4zm6.406-11.845c-.796 0-1.44.645-1.44 1.44s.645 1.44 1.44 1.44 1.44-.645 1.44-1.44-.645-1.44-1.44-1.44z"/></svg>
+        </a>
+        <a href="https://twitter.com" class="text-gray-400 hover:text-white">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24"><path d="M23.954 4.569c-.885.394-1.83.658-2.825.775 1.014-.607 1.794-1.569 2.165-2.724-.95.555-2.005.959-3.127 1.184-.896-.959-2.173-1.559-3.593-1.559-2.717 0-4.917 2.201-4.917 4.917 0 .39.045.765.127 1.124-4.083-.205-7.704-2.159-10.126-5.134-.422.724-.664 1.562-.664 2.457 0 1.695.865 3.192 2.179 4.069-.804-.026-1.561-.246-2.228-.616v.062c0 2.367 1.684 4.342 3.918 4.788-.41.111-.843.171-1.287.171-.314 0-.615-.03-.916-.086.631 1.953 2.445 3.376 4.604 3.415-1.68 1.317-3.809 2.103-6.104 2.103-.396 0-.789-.023-1.175-.068 2.188 1.394 4.768 2.209 7.548 2.209 9.057 0 14.01-7.512 14.01-14.01 0-.213 0-.426-.016-.637.962-.693 1.797-1.56 2.457-2.548l-.047-.02z"/></svg>
+        </a>
+        <a href="https://linkedin.com" class="text-gray-400 hover:text-white">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24"><path d="M19.772 3.003c0-1.104-.896-2-2-2h-11.544c-1.104 0-2 .896-2 2v17.994c0 1.104.896 2 2 2h11.544c1.104 0 2-.896 2-2v-17.994zm-11.159 18.617h-2.627v-8.97h2.627v8.97zm-1.306-10.223c-.839 0-1.519-.68-1.519-1.519s.68-1.519 1.519-1.519 1.519.68 1.519 1.519-.68 1.519-1.519 1.519zm11.118 10.223h-2.627v-4.684c0-1.115-.026-2.548-1.554-2.548-1.558 0-1.797 1.216-1.797 2.471v4.761h-2.627v-8.97h2.521v1.225h.036c.351-.662 1.205-1.354 2.48-1.354 2.65 0 3.138 1.742 3.138 4.003v5.096z"/></svg>
+        </a>
+      </div>
+      <!-- Footer Links -->
+      <div class="flex space-x-8">
+        <div>
+          <h3 class="text-lg font-semibold mb-2">Solution</h3>
+          <ul>
+            <li><a href="#" class="text-gray-400 hover:text-white">Marketing</a></li>
+            <li><a href="#" class="text-gray-400 hover:text-white">Analytics</a></li>
+            <li><a href="#" class="text-gray-400 hover:text-white">Commerce</a></li>
+            <li><a href="#" class="text-gray-400 hover:text-white">Insights</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3 class="text-lg font-semibold mb-2">Support</h3>
+          <ul>
+            <li><a href="#" class="text-gray-400 hover:text-white">Pricing</a></li>
+            <li><a href="#" class="text-gray-400 hover:text-white">Documentation</a></li>
+            <li><a href="#" class="text-gray-400 hover:text-white">Guides</a></li>
+            <li><a href="#" class="text-gray-400 hover:text-white">API Status</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3 class="text-lg font-semibold mb-2">Company</h3>
+          <ul>
+            <li><a href="#" class="text-gray-400 hover:text-white">About</a></li>
+            <li><a href="#" class="text-gray-400 hover:text-white">Blog</a></li>
+            <li><a href="#" class="text-gray-400 hover:text-white">Jobs</a></li>
+            <li><a href="#" class="text-gray-400 hover:text-white">Press</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3 class="text-lg font-semibold mb-2">Legal</h3>
+          <ul>
+            <li><a href="#" class="text-gray-400 hover:text-white">Claim</a></li>
+            <li><a href="#" class="text-gray-400 hover:text-white">Privacy</a></li>
+            <li><a href="#" class="text-gray-400 hover:text-white">Terms</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="text-center text-gray-400">
+      &copy; 2024 Your Company Name. All rights reserved.
+    </div>
+  </div>
+</footer>
+
+
+
 </div>
 
 </body>
