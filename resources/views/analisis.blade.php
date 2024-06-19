@@ -91,7 +91,53 @@
       <canvas id="myChart"></canvas>
     </div>
   </div>
- 
+  <div class="mt-8 max-w-lg mx-auto p-6 bg-white shadow-lg rounded-lg">
+    <form id="dataForm">
+        <div id="expenseForm" class="mb-4">
+            <h2 class="text-lg font-bold mb-2">Pengeluaran</h2>
+            <div class="mb-2">
+                <label class="block text-gray-700">Food:</label>
+                <input type="number" id="food" value="300" class="border rounded w-full px-2 py-1">
+            </div>
+            <div class="mb-2">
+                <label class="block text-gray-700">Rent:</label>
+                <input type="number" id="rent" value="500" class="border rounded w-full px-2 py-1">
+            </div>
+            <div class="mb-2">
+                <label class="block text-gray-700">Utilities:</label>
+                <input type="number" id="utilities" value="200" class="border rounded w-full px-2 py-1">
+            </div>
+            <div class="mb-2">
+                <label class="block text-gray-700">Transport:</label>
+                <input type="number" id="transport" value="100" class="border rounded w-full px-2 py-1">
+            </div>
+            <div class="mb-2">
+                <label class="block text-gray-700">Misc:</label>
+                <input type="number" id="misc" value="50" class="border rounded w-full px-2 py-1">
+            </div>
+        </div>
+        <div id="incomeForm" class="mb-4 hidden">
+            <h2 class="text-lg font-bold mb-2">Penghasilan</h2>
+            <div class="mb-2">
+                <label class="block text-gray-700">Salary:</label>
+                <input type="number" id="salary" value="1200" class="border rounded w-full px-2 py-1">
+            </div>
+            <div class="mb-2">
+                <label class="block text-gray-700">Freelance:</label>
+                <input type="number" id="freelance" value="450" class="border rounded w-full px-2 py-1">
+            </div>
+            <div class="mb-2">
+                <label class="block text-gray-700">Investments:</label>
+                <input type="number" id="investments" value="300" class="border rounded w-full px-2 py-1">
+            </div>
+            <div class="mb-2">
+                <label class="block text-gray-700">Other:</label>
+                <input type="number" id="other" value="150" class="border rounded w-full px-2 py-1">
+            </div>
+        </div>
+        <button type="button" onclick="updateChart()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded w-full mt-4">Update Chart</button>
+    </form>
+</div>
 
 <!-- Footer -->
 <footer class="bg-gray-800 text-white py-8">
